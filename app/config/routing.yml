@@ -1,0 +1,4 @@
+test_post:
+    resource: "@TestPostBundle/Controller/"
+    type:     annotation
+    prefix:   /
